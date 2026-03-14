@@ -1,6 +1,6 @@
 # 🔐 Security Knowledge Base
 
-Repositorio personal para documentar conocimientos relacionados con:
+Repositorio con materiales relacionados con:
 
 - Seguridad de la Información
 - Ciberseguridad
@@ -54,12 +54,13 @@ Repositorio personal para documentar conocimientos relacionados con:
 
 # 💻 Comandos útiles
 
-### Windows
+### MAC
 
-whoami
-ipconfig /all
-netstat -ano
-tasklist
+| Acccion | Descripcion |Codigo. |
+| --------------------------- | ------------------------ |. |
+| Bloquear pantalla | Mission Control / Hot Corners |. |
+| Bloquear pantalla | Control + Command + Q |. |
+| Boton bloquear pantalla | Automator/ |/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend |
 
 ### Linux
 
