@@ -56,11 +56,11 @@ Repositorio con materiales relacionados con:
 
 ### MAC
 
-| Acccion | Descripcion |Codigo. |
-| --------------------------- | ------------------------ |. |
-| Bloquear pantalla | Mission Control / Hot Corners |. |
-| Bloquear pantalla | Control + Command + Q |. |
-| Boton bloquear pantalla | Automator/ |/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend |
+| Acccion                 | Descripcion                   | Codigo                                                                                    |
+| ----------------------- | ----------------------------- | ----------------------------------------------------------------------------------------- |
+| Bloquear pantalla       | Mission Control - Hot Corners | No aplica                                                                                 |
+| Bloquear pantalla       | Control + Command + Q         | No aplica                                                                                 |
+| Boton bloquear pantalla | Automator/                    | /System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend |
 
 ### Linux
 
