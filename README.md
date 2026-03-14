@@ -13,7 +13,7 @@ Repositorio personal para documentar conocimientos relacionados con:
 # 📚 Índice
 
 - [Frameworks de Seguridad](#frameworks-de-seguridad)
-- [Herramientas de Ciberseguridad](#herramientas-de-ciberseguridad)
+- [Herramientas de Seguridad de la Información](#herramientas-de-Segurodad-de-la-Información)
 - [Recursos o paginas](#recursos-o-paginas)
 - [Comandos útiles](#comandos-útiles)
 - [Auditoría TI](#auditoría-ti)
@@ -26,26 +26,20 @@ Repositorio personal para documentar conocimientos relacionados con:
 
 # 🛡️ Frameworks de Seguridad
 
-| Framework                    | Descripción                                       |
-| ---------------------------- | ------------------------------------------------- |
-| ISO 27001                    | Sistema de gestión de seguridad de la información |
-| ISO 27002                    | Controles de seguridad                            |
-| NIST Cybersecurity Framework | Gestión de riesgos                                |
-| CIS Controls                 | Controles de seguridad priorizados                |
-| COBIT                        | Gobierno de TI                                    |
+| Framework     | Descripción                                       |
+| ------------- | ------------------------------------------------- |
+| ISO 27001     | Sistema de gestión de seguridad de la información |
+| ISO 27002     | Controles de seguridad                            |
+| NSO/IEC 38500 | Gobierno Corporativo de TI                        |
 
 ---
 
-# 🧰 Herramientas de Ciberseguridad
+# 🧰 Herramientas de Seguridad de la Información
 
-| Herramienta | Uso                         |
-| ----------- | --------------------------- |
-| Wireshark   | Análisis de tráfico         |
-| Nmap        | Escaneo de red              |
-| Burp Suite  | Seguridad web               |
-| Metasploit  | Pentesting                  |
-| Nessus      | Vulnerability scanning      |
-| OpenVAS     | Escaneo de vulnerabilidades |
+| Herramienta                     | Uso                      |
+| ------------------------------- | ------------------------ |
+| Termaind                        | Herramienta de monitoreo |
+| Microsoft Defender for Endpoint | Seguroad de los correos  |
 
 ---
 
@@ -53,11 +47,8 @@ Repositorio personal para documentar conocimientos relacionados con:
 | Herramienta | Uso |
 | ----------- | --------------------------- |
 | ProtecodText| https://www.protectedtext.com/seguridad-informatica-99|
-| Nmap | Escaneo de red |
+| WPS Office: 2.1.1 | https://wps-office.macupdate.com/app/mac/61608/wps-office/old-versions |
 | Burp Suite | Seguridad web |
-| Metasploit | Pentesting |
-| Nessus | Vulnerability scanning |
-| OpenVAS | Escaneo de vulnerabilidades |
 
 ---
 
