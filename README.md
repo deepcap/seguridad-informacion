@@ -36,15 +36,15 @@ Repositorio con materiales relacionados con:
 
 # 🧰 Herramientas de Seguridad de la Información
 
-| Herramienta                     | Uso                      |
-| ------------------------------- | ------------------------ |
-| Termaind                        | Herramienta de monitoreo |
-| Microsoft Defender for Endpoint | Seguroad de los correos  |
+| Herramienta                     | Uso                                   | Ligas.                                                                              |
+| ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------- |
+| Termaind                        | Herramienta de monitoreo              | https://kb.teramind.co/en/collections/7798687-user-guide?utm_source=chatgpt.com     |
+| Microsoft Defender for Endpoint | analistas de operaciones de seguridad | https://learn.microsoft.com/es-mx/training/career-paths/security-operations-analyst |
 
 ---
 
 #Recurso o paginas
-| Herramienta | Uso |
+| Herramienta | Ligas |
 | ----------- | --------------------------- |
 | ProtecodText| https://www.protectedtext.com/seguridad-informatica-99|
 | WPS Office: 2.1.1 | https://wps-office.macupdate.com/app/mac/61608/wps-office/old-versions |
