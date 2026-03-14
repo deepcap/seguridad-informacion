@@ -14,12 +14,13 @@ Repositorio personal para documentar conocimientos relacionados con:
 
 - [Frameworks de Seguridad](#frameworks-de-seguridad)
 - [Herramientas de Ciberseguridad](#herramientas-de-ciberseguridad)
+- [Recursos o paginas](#recursos-o-paginas)
 - [Comandos útiles](#comandos-útiles)
 - [Auditoría TI](#auditoría-ti)
 - [Gestión de Identidades](#gestión-de-identidades)
 - [Monitoreo y SIEM](#monitoreo-y-siem)
 - [Respuesta a Incidentes](#respuesta-a-incidentes)
-- [Recursos de aprendizaje](#recursos-de-aprendizaje)
+- [Recursos o paginas](#recursos-de-aprendizaje)
 
 ---
 
@@ -45,6 +46,18 @@ Repositorio personal para documentar conocimientos relacionados con:
 | Metasploit  | Pentesting                  |
 | Nessus      | Vulnerability scanning      |
 | OpenVAS     | Escaneo de vulnerabilidades |
+
+---
+
+#Recurso o paginas
+| Herramienta | Uso |
+| ----------- | --------------------------- |
+| ProtecodText| https://www.protectedtext.com/seguridad-informatica-99|
+| Nmap | Escaneo de red |
+| Burp Suite | Seguridad web |
+| Metasploit | Pentesting |
+| Nessus | Vulnerability scanning |
+| OpenVAS | Escaneo de vulnerabilidades |
 
 ---
 
@@ -163,7 +176,3 @@ Este repositorio funciona como una **base de conocimiento personal** para regist
 ---
 
 # 👨‍💻 Autor
-
-Anthon Luna  
-Especialización en **Auditoría TI y Seguridad de la Información**
-git
